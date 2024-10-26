@@ -31,7 +31,8 @@
     {%- endif -%}
   {% endcapture %}
 
-  <title>{{ title }}</title>
+  <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif
+    page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   {% capture author %}
     {%- if page.author -%}

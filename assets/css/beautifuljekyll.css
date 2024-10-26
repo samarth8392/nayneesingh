@@ -663,6 +663,17 @@ footer .footer-custom-content {
   font-size: 1rem;
 }
 
+.btn-primary {
+  background-color: #06038D !important;  /* Use !important if needed to override Bootstrap */
+  border-color: #06038D;    /* Match the border color */
+}
+
+/* Add hover effect */
+.btn-primary:hover {
+  background-color: #FF671F !important;
+  border-color: #FF671F;
+}
+
 /* --- Post and page headers --- */
 
 .intro-header {
