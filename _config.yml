@@ -32,7 +32,7 @@ navbar-links:
 
 description: Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samarth8392.github.io/nayneesingh" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://samarth8392.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ################
 # --- Logo --- #
