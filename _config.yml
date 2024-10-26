@@ -32,7 +32,7 @@ navbar-links:
 
 description: Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://samarth8392.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nayneesingh.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 ################
 # --- Logo --- #
@@ -106,7 +106,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://samarth8392.github.io/nayneesingh"
+url-pretty: "www.nayneesingh.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
