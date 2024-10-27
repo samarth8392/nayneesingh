@@ -5,7 +5,7 @@ subtitle: Psychiatric Social Worker & Junior Consultant @ NIMHANS
 use-site-title: true
 ---
 
-Welcome to my personal website! I am **Naynee Singh** (pronounced Na-yah-ni Sing), a dedicated Psychiatric Social Worker with a steadfast commitment to promoting mental health and well-being. With a background in social work and specialized training in psychiatric care, I bring a unique blend of empathy, expertise, and advocacy to my role.
+Welcome to my personal website! I am **Naynee Singh** (pronounced Na-yah-ni SingH), a dedicated Psychiatric Social Worker with a steadfast commitment to promoting mental health and well-being. With a background in social work and specialized training in psychiatric care, I bring a unique blend of empathy, expertise, and advocacy to my role.
 
 <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="experience" class="btn btn-primary">Learn More About Me</a>
