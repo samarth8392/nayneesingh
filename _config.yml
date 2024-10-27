@@ -23,7 +23,9 @@ author: Naynee Singh
 navbar-links:
   Experience:
   - Summary: "experience"
-  - Detailed: 
+  - PSW @ NIMHANS: "psw_nimhans"
+  - Udayan Care: "udayan_care"
+  - Urmul Seemant: "urmul_seemant"
   Projects: "projects"
   About Me:
   - Timeline: "timeline"
