@@ -4,17 +4,44 @@ title: Asst. Project Coordinator
 subtitle:  "@ Urmul Seemant"
 cover-img: 
   - "assets/img/urmul_seemant.png"
+css : "assets/css/image_gallery.css"
 ---
 
 Urmul Seemant Samiti has been dedicated to empowering village communities towards self-reliance since its establishment in 1994. The organization aims to create a safe and enabling environment that ensures the rights to health, education, and employment are respected and realized without discrimination or exclusion, with a special focus on children and women. This mission is rooted in the belief that every individual deserves access to essential services that can improve their quality of life and foster community development.
 
 The story of Urmul Seemant Samiti began in 1984 with the URMUL Rural Health Research and Development Trust (URMUL Trust), which started as a social development initiative for farmers associated with the cooperative dairy, Urmul Dairy, in Bikaner. Inspired by the community-based developmental services initiated by AMUL, URMUL Trust focused on addressing the needs of disadvantaged groups, particularly women and children, to alleviate their hardships and advance their rights. Over time, the organization recognized that the impoverished populations in the desert region required a broader range of services, particularly in health, education, and livelihood.
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+<div class="responsive-gallery">
+    <div class="image-card">
+        <img src="https://seemant.org/wp-content/uploads/2021/01/exib8-1.jpg" alt="Image 1">
+    </div>
+    <div class="image-card">
+        <img src="https://seemant.org/wp-content/uploads/2021/01/IMG-20190724-WA0012.jpg" alt="Image 2">
+    </div>
+    <div class="image-card">
+        <img src="https://seemant.org/wp-content/uploads/2021/01/stranusar-shikshan.jpg" alt="Image 3">
+    </div>
+</div>
+
+
+<!-- <div class="container">
+    <div class="row">
+        <div class="col-12 col-md-4 mb-3">
+            <img src="https://seemant.org/wp-content/uploads/2021/01/exib8-1.jpg" class="img-fluid" alt="Image 1">
+        </div>
+        <div class="col-12 col-md-4 mb-3">
+            <img src="https://seemant.org/wp-content/uploads/2021/01/IMG-20190724-WA0012.jpg" class="img-fluid" alt="Image 3">
+        </div>
+        <div class="col-12 col-md-6 mb-3">
+            <img src="https://seemant.org/wp-content/uploads/2021/01/stranusar-shikshan.jpg" class="img-fluid" alt="Image 2">
+        </div>
+</div> -->
+
+<!-- <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
     <img src="https://seemant.org/wp-content/uploads/2021/01/exib8-1.jpg" style="width: 300px; height: 200px;" alt="Image 1">
     <img src="https://seemant.org/wp-content/uploads/2021/01/stranusar-shikshan.jpg" style="width: 300px; height: 200px;" alt="Image 2">
     <img src="https://seemant.org/wp-content/uploads/2021/01/IMG-20190724-WA0012.jpg" style="width: 300px; height: 200px;" alt="Image 3">
-</div>
+</div> -->
 
 In May 1988, URMUL Trust expanded its activities to the command area of the Indira Gandhi Canal in Kolayat Block of Bikaner district, aiming to provide community-based developmental services to the scattered desert population. By 1992, the organization began decentralizing its activities, transferring authority and responsibility to local communities. This process led to the formation of Urmul Seemant Samiti on May 4, 1994, which is now operational in the Bikaner and Jodhpur districts of western Rajasthan, directly impacting over 300 villages.
 
