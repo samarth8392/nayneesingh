@@ -16,7 +16,7 @@ css : "assets/css/pdf.css"
 
 <!-- Download Button (hidden by default) -->
 <div class="download-button" id="download-btn">
-    <a href="../Naynee_Singh_CV_PDF.pdf" download>Download My CV</a>
+    <a href="../Naynee_Singh_CV_PDF.pdf" download>Download</a>
 </div>
 
 <script>
