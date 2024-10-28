@@ -1,19 +1,25 @@
 .pdf-container {
-    position: relative;
     width: 100%;
-    height: 100vh; /* or any fixed height */
-    max-height: 800px;
-    overflow: hidden;
+    height: 800px;
+    margin: 0 auto;
 }
 
-.pdf-viewer {
-    width: 100%;
-    height: 100%;
+.download-button {
+    display: none; /* Hidden by default */
+    text-align: center;
+    margin: 20px auto;
 }
 
-/* Mobile-specific styles */
-@media only screen and (max-width: 768px) {
-    .pdf-container {
-        height: 500px; /* Smaller height for mobile */
-    }
+.download-button a {
+    background-color: #007bff; /* Bootstrap primary blue */
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.download-button a:hover {
+    background-color: #0056b3;
 }
