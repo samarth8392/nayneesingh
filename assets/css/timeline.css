@@ -323,23 +323,3 @@ body {
       z-index: 15;
   }
 }
-
-/* Small Mobile Styles (400px and below) */
-@media screen and (max-width: 400px) {
-  .direction-l,
-  .direction-r {
-      padding-left: 30px;
-  }
-
-  .flag {
-      font-size: 0.8em;
-  }
-
-  .time-wrapper {
-      font-size: 0.8em;
-  }
-
-  .desc {
-      font-size: 0.8em;
-  }
-}
