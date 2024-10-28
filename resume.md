@@ -15,7 +15,7 @@ css : "assets/css/pdf.css"
 </div>
 
 <!-- Download Button (hidden by default) -->
-<div class="btn btn-primary" id="download-btn">
+<div class="download-button" id="download-btn">
     <a href="../Naynee_Singh_CV_PDF.pdf" download>Download</a>
 </div>
 
