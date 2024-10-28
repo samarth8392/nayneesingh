@@ -20,7 +20,7 @@ css : "assets/css/pdf.css"
     
     if (isMobile) {
         // For mobile devices, use Google Docs Viewer as fallback
-        const pdfUrl = encodeURIComponent("../Naynee_Singh_CV_PDF.pdf");
+        const pdfUrl = encodeURIComponent("https://github.com/samarth8392/nayneesingh/blob/master/Naynee_Singh_CV_PDF.pdf");
         document.getElementById('pdf').innerHTML = `
             <iframe src="https://docs.google.com/viewer?url=${pdfUrl}&embedded=true" 
                     width="100%" 
