@@ -1,15 +1,25 @@
 ---
 layout: page
-title: ""
-subtitle: Professional Summary
-use-site-title: true
+title: "Professional Summary"
+css : "assets/css/justify-content.css"
 ---
 
-My journey in the field of mental health began with a Bachelor's degree in Home Science specialized in Human Development & Childhood studies from [Lady Irwin College, Delhi University](https://ladyirwin.edu.in/), followed by a Master's in Social Work from [Jamia Millia Islamia](https://jmi.ac.in/). I furthered my education with an M.Phil in Psychiatric Social Work from [PGIMS Rohtak Haryana](http://www.pgimsrohtak.ac.in/), where I delved into advanced studies in mental health services and allied professions.
 
-<div style="display: flex; justify-content: center; gap: 15px;">
-    <a href="../timeline" class="btn btn-primary">My journey</a>
+
+<div class="content-wrapper">
+    <div class="image-text-container">
+        <img class="circular-img" src="/assets/img/me.jpg" alt="Profile Image"/>
+        <div class="text-content">
+            My journey in the field of mental health began with a Bachelor's degree in Home Science specialized in Human Development & Childhood studies from <a href="https://ladyirwin.edu.in/" target="_blank">Lady Irwin College, Delhi University</a>, followed by a Master's in Social Work from <a href="https://jmi.ac.in/" target="_blank">Jamia Millia Islamia</a>. I furthered my education with an M.Phil in Psychiatric Social Work from <a href="http://www.pgimsrohtak.ac.in/" target="_blank">PGIMS Rohtak Haryana</a>, where I delved into advanced studies in mental health services and allied professions.
+        </div>
+    </div>
+    <div class="button-container">
+        <a href="../timeline" class="btn btn-primary">My journey</a>
+    </div>
 </div>
+
+    
+
 
 Throughout my career, I have had the privilege of working with esteemed organizations such as the [National Institute of Mental Health and Neuro Sciences](https://nimhans.ac.in/) (NIMHANS), Bengaluru and the [Cosmos Institute of Mental Health & Behavioural Sciences](https://www.cimbs.in/) (CIMBS), New Delhi. In the role of a Psychiatric Social Worker (PSW), I have provided therapeutic support, case management, and community outreach services to individuals and families facing mental health challenges.
 
