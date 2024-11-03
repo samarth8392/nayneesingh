@@ -27,6 +27,10 @@ navbar-links:
   - Udayan Care: "udayan_care"
   - Urmul Seemant: "urmul_seemant"
   Projects: "projects"
+  More:
+  - Certificates: "certificates"
+  - Publications: "pubs"
+  - Presentations: "presentations"
   About Me:
   - Timeline: "timeline"
   - Testimonials: "testimonials"
