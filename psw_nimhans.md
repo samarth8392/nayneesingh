@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psychiatric Social Work
+title: Psychiatric Social Worker
 subtitle:  "@ NIMHANS"
 cover-img: 
   - "assets/img/nimhans.jpg" : " National Institute of Mental Health and Neuro Sciences, Bangalore, India"

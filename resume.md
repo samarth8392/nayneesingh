@@ -1,12 +1,11 @@
 ---
 layout: page
-title: ""
-subtitle: Download a copy of my resume
+title: "Resume"
+subtitle: "Last Updated: 08/26/24"
 use-site-title: true
 css : "assets/css/pdf.css"
 ---
 
-<p align="center"> <i> Last Updated: 08/26/24 </i> </p>
 
 <script src="../assets/js/pdfobject.min.js"></script>
 

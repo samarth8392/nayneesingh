@@ -22,7 +22,7 @@ author: Naynee Singh
 
 navbar-links:
   Experience:
-  - Summary: "experience"
+  - Summary: "summary"
   - PSW @ NIMHANS: "psw_nimhans"
   - Udayan Care: "udayan_care"
   - Urmul Seemant: "urmul_seemant"
@@ -30,7 +30,7 @@ navbar-links:
   More:
   - Certificates: "certificates"
   - Publications: "pubs"
-  - Presentations: "presentations"
+  - Conferences: "conferences"
   About Me:
   - Timeline: "timeline"
   - Testimonials: "testimonials"
