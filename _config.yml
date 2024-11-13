@@ -28,9 +28,9 @@ navbar-links:
   - Urmul Seemant: "urmul_seemant"
   Projects: "projects"
   More:
-  - Certificates: "certificates"
   - Publications: "pubs"
   - Conferences: "conferences"
+  - Certificates: "certificates"
   About Me:
   - Timeline: "timeline"
   - Testimonials: "testimonials"
