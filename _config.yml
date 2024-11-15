@@ -150,15 +150,15 @@ title-separator: "|"
 
 page-col: "#e6e6e6"
 text-col: "#404040"
-link-col: "#06038D"
-hover-col: "#06038D"
-navbar-col: "#FF671F"
-navbar-text-col: "#06038D"
-navbar-border-col: "#FF671F"
-footer-col: "#046A38"
+link-col: "#232A71"
+hover-col: "#232A71"
+navbar-col: "#F4B347"
+navbar-text-col: "#232A71"
+navbar-border-col: "#F4B347"
+footer-col: "#F4B347"
 footer-text-col: "#0f0f0f"
 footer-link-col: "#0f0f0f"
-footer-hover-col: "#FF671F"
+footer-hover-col: "#232A71"
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume"
-subtitle: "Last Updated: 08/26/24"
+subtitle: "Last Updated: 11/15/24"
 use-site-title: true
 css : "assets/css/pdf.css"
 ---

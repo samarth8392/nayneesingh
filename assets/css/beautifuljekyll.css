@@ -673,14 +673,14 @@ footer .footer-custom-content {
 }
 
 .btn-primary {
-  background-color: #06038D !important;  /* Use !important if needed to override Bootstrap */
-  border-color: #06038D;    /* Match the border color */
+  background-color: #232A71 !important;  /* Use !important if needed to override Bootstrap */
+  border-color: #232A71;    /* Match the border color */
 }
 
 /* Add hover effect */
 .btn-primary:hover {
-  background-color: #FF671F !important;
-  border-color: #FF671F;
+  background-color: #F4B347 !important;
+  border-color: #F4B347;
 }
 
 /* --- Post and page headers --- */
