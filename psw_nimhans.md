@@ -11,13 +11,13 @@ css : "assets/css/image_gallery.css"
 
 In my role as a full time Psychiatric Social Work and Junior Consultant at National Institute of Mental Health and Neuro Sciences (NIMHANS), I conduct comprehensive assessments and provide therapeutic interventions for patients, placing a strong emphasis on trauma-related issues. This involves a thorough understanding of each patient's unique circumstances and challenges, allowing me to tailor interventions that address their specific needs. By utilizing evidence-based practices, I strive to create a supportive environment that fosters healing and recovery.
 
-Collaboration is a key aspect of my work, as I engage with multidisciplinary teams that include psychiatrists and psychologists. Together, we develop effective treatment plans and strategies that integrate various therapeutic modalities. This collaborative approach ensures that patients receive holistic care that addresses both their psychological and social needs. By working closely with other professionals, I can contribute to a more comprehensive understanding of each patient's situation, ultimately enhancing the quality of care provided.
-
 <div class="responsive-gallery">
     <div class="image-card">
-        <img src="https://ciimhans.com/public/css/assetshome/images/psychiatricsocial.jpg" alt="Image 1">
+        <img src="../assets/img/mentalHealth.png" alt="Image 1">
     </div>
 </div>
+
+Collaboration is a key aspect of my work, as I engage with multidisciplinary teams that include psychiatrists and psychologists. Together, we develop effective treatment plans and strategies that integrate various therapeutic modalities. This collaborative approach ensures that patients receive holistic care that addresses both their psychological and social needs. By working closely with other professionals, I can contribute to a more comprehensive understanding of each patient's situation, ultimately enhancing the quality of care provided.
 
 ### Advancing Mental Health Care and Addressing Social Factors
 

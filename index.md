@@ -12,8 +12,8 @@ Welcome to my personal website! I am **Naynee Singh** (pronounced *Na-yay-ni Sin
 
 <div class="button-container">
     <div style="display: flex; justify-content: center; gap: 15px;">
-        <a href="timeline" class="btn btn-primary">Learn More About Me</a>
-        <a href="summary" class="btn btn-primary">My Professional Summary</a>
+        <a href="summary" class="btn btn-primary">Learn More About Me</a>
+        <a href="timeline" class="btn btn-primary">My Professional Journey</a>
         <a href="resume" class="btn btn-primary">My Resume</a>
     </div>
 </div>
