@@ -26,9 +26,9 @@ navbar-links:
   - PSW @ NIMHANS: "psw_nimhans"
   - Udayan Care: "udayan_care"
   - Urmul Seemant: "urmul_seemant"
-  Projects: "projects"
+  Publications: "pubs"
   More:
-  - Publications: "pubs"
+  - Projects: "projects"
   - Conferences: "conferences"
   - Certificates: "certificates"
   About Me:
