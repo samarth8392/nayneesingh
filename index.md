@@ -8,7 +8,7 @@ css : "assets/css/justify-content.css"
 
 
 
-Welcome to my personal website! I am **Naynee Singh** (pronounced *Na-yay-ni SingH*), a dedicated Psychiatric Social Worker with a steadfast commitment to promoting mental health and well-being. With a background in social work and specialized training in psychiatric care, I bring a unique blend of empathy, expertise, and advocacy to my role.
+Welcome to my personal website! I am **Naynee Singh** (pronounced *Na-yay-nee SingH*), a dedicated Psychiatric Social Worker with a steadfast commitment to promoting mental health and well-being. With a background in social work and specialized training in psychiatric care, I bring a unique blend of empathy, expertise, and advocacy to my role.
 
 <div class="button-container">
     <div style="display: flex; justify-content: center; gap: 15px;">
